@@ -9,7 +9,9 @@
 
 ## 🚀 Live Demo
 
-👉 **[Open Smart Personal Finance Tracker](https://smart-personal-finance-tracker-pgenetdzjl9ksnkwp6bp4w.streamlit.app/)**
+
+👉 https://smart-personal-finance-tracker-pgenetdzjl9ksnkwp6bp4w.streamlit.app/
+
 A modern **Personal Finance Management System** built with **Python**, **Streamlit**, **SQLite**, and **Plotly**.
 
 The application helps users manage income, expenses, monthly budgets, savings goals, and financial analytics through an intuitive dashboard.
